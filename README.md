@@ -1,6 +1,6 @@
 # 🧱 Finite Element Method (FEM) – Solid Mechanics Project (MATLAB)
 
-This repository contains a complete 1D finite element simulation and theoretical derivation for linear solid mechanics problems. Developed as part of the *Foundations of Materials Simulation* course at FAU under Prof. Michael Zaiser (WW8), this project implements the weak form of the governing equations, shape function-based element formulation, numerical quadrature, and stress-displacement analysis using MATLAB.
+This repository contains a complete 1D finite element simulation and theoretical derivation for linear solid mechanics problems. Developed as part of the *Foundations of Materials Simulation* course at FAU , this project implements the weak form of the governing equations, shape function-based element formulation, numerical quadrature, and stress-displacement analysis using MATLAB.
 
 ---
 
