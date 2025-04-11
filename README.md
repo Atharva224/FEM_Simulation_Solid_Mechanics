@@ -50,14 +50,4 @@ This repository contains a complete 1D finite element simulation and theoretical
 
 ---
 
-## 🚀 How to Run (MATLAB)
 
-1. **Open MATLAB.**
-2. Run the full simulation:
-
-```matlab
-main
-run('test_weakform.m')     % Verify weak form solution
-run('untitled5.m')         % Shape function plots and approximation
-run('untitled.m')          % Derivative tests using dN1, dN2
-run('test.m')              % Assemble K, apply Dirichlet BCs
