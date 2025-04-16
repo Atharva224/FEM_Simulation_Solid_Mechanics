@@ -21,7 +21,7 @@ This repository contains a complete 1D finite element simulation and theoretical
 - Application of Dirichlet and Neumann boundary conditions
 - Matrix reduction and symbolic formulation
 - Stress and displacement evaluation
-- MATLAB-based plotting for results
+- MATLAB scripting and plotting
 
 ---
 
